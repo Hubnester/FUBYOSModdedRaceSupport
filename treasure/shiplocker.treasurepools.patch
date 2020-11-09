@@ -1,0 +1,13 @@
+[
+	{
+		"op" : "test",
+		"path": "/tirastrollsStarterTreasure"
+	},
+	{
+		"op": "add",
+		"path": "/tirastrollsStarterTreasure/0/1/fill/-",
+		"value": {
+			"item" : "tt_deadhighblood"
+		}
+	}
+]
