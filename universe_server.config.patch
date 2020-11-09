@@ -215,6 +215,10 @@
 	{"op":"replace","path":"/speciesShips/sarasinor/0",
 	"value": "/ships/fu_byos/fu_byos.structure"}
 	],
+	[{ "op": "test", "path": "/speciesShips/satkyterran"},
+	{"op":"replace","path":"/speciesShips/satkyterran/0",
+	"value": "/ships/fu_byos/fu_byos.structure"}
+	],
 	[{ "op": "test", "path": "/speciesShips/saturn"},
 	{"op":"replace","path":"/speciesShips/saturn/0",
 	"value": "/ships/fu_byos/fu_byos.structure"}

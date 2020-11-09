@@ -3,8 +3,9 @@
   "description" : "A patch to make it so modded races that have racial bonuses in FU can use the Frackin Universe build your own ship. Support for races without racial bonuses in FU can be gotton here: https://steamcommunity.com/sharedfiles/filedetails/?id=1408636770
 
 Chucklefish Forum Version: https://community.playstarbound.com/resources/official-fu-byos-modded-race-patch.5094/
+Github Link: https://github.com/Hubnester/FUBYOSModdedRaceSupport
 
-Currently supported races (uses internal names): https://pastebin.com/fydAV42B ",
+Currently supported races (uses internal names (outdated)): https://pastebin.com/fydAV42B ",
   "friendlyName" : "[OFFICIAL] FU BYOS Modded Race Patch (Races That Have Racial Bonuses In FU)",
   "includes" : ["FrackinUniverse", "SlimeRaceMod", "Inkling Race Mod", "Draconis Race(Humanoid Dragon Race)", "kirhos", "tirastrolls", "skath", "WIP: The Viera of Ivalice", "Mauskin", "peglaci", "Arachne Race Mod", "Felins", "Callistan Race Mod", "Bunnykin", "GreckanRaceMod", "kazdrareloaded", "Gyrusens", "Hive Wasp Race", "Vulpes race for Starbound 1.X", "Vespoids", "Orcana", "Race - Munari", "Ningen [Fixed for 1.3]", "Ningen", "mantizi", "Skelekin Race", "Neko Alternate", "Kemono", "Familiars", "Elunite", "argonian", "lamia", "Indix", "Arsenalbound", "Lastree Race", "Skittles Advanced Race Template", "The Nightars", "Playable Fenerox!", "Gardevan", "Woggles", "The Tauren of Warcraft", "Avali (Triage) Race Mod", "Avali", "Lucario"],
   "link" : "steam://url/CommunityFilePage/1194878261",
