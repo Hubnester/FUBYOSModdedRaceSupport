@@ -115,6 +115,10 @@
 	{"op":"replace","path":"/speciesShips/kazdra/0",
 	"value": "/ships/fu_byos/fu_byos.structure"}
 	],
+	[{ "op": "test", "path": "/speciesShips/kyani"},
+	{"op":"replace","path":"/speciesShips/kyani/0",
+	"value": "/ships/fu_byos/fu_byos.structure"}
+	],
 	[{ "op": "test", "path": "/speciesShips/kemono"},
 	{"op":"replace","path":"/speciesShips/kemono/0",
 	"value": "/ships/fu_byos/fu_byos.structure"}
